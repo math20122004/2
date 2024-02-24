@@ -1,0 +1,14 @@
+E:\MICROSOFT\Atividades para brincar de c#\2\bin\Debug\net8.0\2.exe
+E:\MICROSOFT\Atividades para brincar de c#\2\bin\Debug\net8.0\2.deps.json
+E:\MICROSOFT\Atividades para brincar de c#\2\bin\Debug\net8.0\2.runtimeconfig.json
+E:\MICROSOFT\Atividades para brincar de c#\2\bin\Debug\net8.0\2.dll
+E:\MICROSOFT\Atividades para brincar de c#\2\bin\Debug\net8.0\2.pdb
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.AssemblyInfoInputs.cache
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.AssemblyInfo.cs
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.csproj.CoreCompileInputs.cache
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.dll
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\refint\2.dll
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.pdb
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\2.genruntimeconfig.cache
+E:\MICROSOFT\Atividades para brincar de c#\2\obj\Debug\net8.0\ref\2.dll
